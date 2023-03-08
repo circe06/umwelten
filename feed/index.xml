@@ -12,7 +12,7 @@
 	<atom:link href="https://circe06.github.io/umwelten/feed/" rel="self" type="application/rss+xml" />
 	<link>https://circe06.github.io/umwelten</link>
 	<description>interfacing perception, communication and interaction</description>
-	<lastBuildDate>Mon, 06 Mar 2023 12:09:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 08 Mar 2023 19:10:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -27,25 +27,5 @@
 	<width>32</width>
 	<height>32</height>
 </image> 
-	<item>
-		<title>Hello world!</title>
-		<link>https://circe06.github.io/umwelten/hello-world/</link>
-					<comments>https://circe06.github.io/umwelten/hello-world/#respond</comments>
-		
-		<dc:creator><![CDATA[CUmwelten]]></dc:creator>
-		<pubDate>Mon, 06 Mar 2023 12:09:18 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://circe06.github.io/umwelten/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://circe06.github.io/umwelten/hello-world/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
