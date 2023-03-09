@@ -12,20 +12,12 @@
 	<atom:link href="https://circe06.github.io/umwelten/feed/" rel="self" type="application/rss+xml" />
 	<link>https://circe06.github.io/umwelten</link>
 	<description>interfacing perception, communication and interaction</description>
-	<lastBuildDate>Wed, 08 Mar 2023 19:10:04 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 09 Mar 2023 02:56:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-
-<image>
-	<url>https://circe06.github.io/umwelten/wp-content/uploads/2023/03/logo_dark.png</url>
-	<title>Umwelten</title>
-	<link>https://circe06.github.io/umwelten</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 </channel>
 </rss>

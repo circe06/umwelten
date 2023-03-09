@@ -194,31 +194,6 @@
 					"slug": "system-font"
 				},
 				{
-					"fontFamily": "\"Source Serif Pro\", serif",
-					"name": "Source Serif Pro",
-					"slug": "source-serif-pro",
-					"fontFace": [
-						{
-							"fontFamily": "Source Serif Pro",
-							"fontWeight": "200 900",
-							"fontStyle": "normal",
-							"fontStretch": "normal",
-							"src": [
-								"file:./assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2"
-							]
-						},
-						{
-							"fontFamily": "Source Serif Pro",
-							"fontWeight": "200 900",
-							"fontStyle": "italic",
-							"fontStretch": "normal",
-							"src": [
-								"file:./assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2"
-							]
-						}
-					]
-				},
-				{
 					"fontFamily": "Roboto Mono",
 					"slug": "roboto-mono",
 					"fontFace": [
@@ -259,6 +234,118 @@
 							"src": [
 								"file:./assets/fonts/ibm-plex-mono_normal_700.ttf"
 							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_100.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_100.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_200.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_200.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_500.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_500.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_600.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_600.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_normal_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "IBM Plex Mono",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/ibm-plex-mono_italic_700.ttf"
+							]
 						}
 					]
 				},
@@ -280,6 +367,62 @@
 							"fontWeight": "700",
 							"src": [
 								"file:./assets/fonts/manrope_normal_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": [
+								"file:./assets/fonts/manrope_normal_200.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/manrope_normal_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/manrope_normal_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/manrope_normal_500.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/manrope_normal_600.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/manrope_normal_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "Manrope",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": [
+								"file:./assets/fonts/manrope_normal_800.ttf"
 							]
 						}
 					]
